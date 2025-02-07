@@ -1,1 +1,2 @@
 # Live-Facial_Expression_Detection
+Live facial expression detection is a project that uses computer vision and deep learning techniques to identify human emotions in real-time. It typically involves capturing video from a webcam, detecting faces within the video frames, and then classifying the detected facial expressions into different emotion categories. The emotion labels are then displayed on the screen in real-time
